@@ -12,7 +12,7 @@ for(int i=0;i<n;i++)
 a[i]=s.nextInt();
 if(a[i]==i)
 {
-System.out.print(i+" ");
+System.out.println("the number"+a[i]+"equals its index"+i);
 }
 }
 }
